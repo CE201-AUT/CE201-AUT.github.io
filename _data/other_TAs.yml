@@ -16,17 +16,15 @@
       link: https://www.linkedin.com/in/arvin-amirhosseini/
 
 
-- name: Anonymous
+- name: Mehrshad Khansarian
   roles:
     - Grader
-  image: default.png
+  image: mehrshadkhansarian.png
   social:
     - name: github
-      link: https://github.com/
+      link: https://www.linkedin.com/in/mehrshadkh/
     - name: linkedin
-      link: https://www.linkedin.com/in/
-    - name: twitter
-      link: https://twitter.com/
+      link: https://www.linkedin.com/in/mehrshadkh/
 
 
 - name: Anonymous
