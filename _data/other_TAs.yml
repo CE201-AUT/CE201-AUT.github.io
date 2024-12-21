@@ -7,17 +7,13 @@
       link: https://www.linkedin.com/in/arian-kheirandish/
 
 
-- name: Anonymous
+- name: Arvin Amirhosseini
   roles:
     - Grader
-  image: default.png
+  image: arvinamirhoseini.jpg
   social:
-    - name: github
-      link: https://github.com/
     - name: linkedin
-      link: https://www.linkedin.com/in/
-    - name: twitter
-      link: https://twitter.com/
+      link: https://www.linkedin.com/in/arvin-amirhosseini/
 
 
 - name: Anonymous
