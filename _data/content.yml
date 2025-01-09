@@ -27,11 +27,11 @@ lessons:
     description: "These are the essentials, learn them well"
     body: lesson_1
 
-  # - title: "Lesson 2 : Clean Code"
-  #   requirements: "Some of your previous codes, get the soap ready"
-  #   description: "Keeping your code clean is a very
-  #     important step in becoming a good programmer."
-  #   body: lesson_2
+  - title: "Lesson 2 : HDLs Worls !"
+    requirements: "Some of your previous topics, get the soap ready"
+    description: "Basic HDL design topics are the most
+      important step to becoming a hardware designer."
+    body: lesson_2
 
   # - title: "Review 1"
   #   requirements: "Exercise 1, Data Structures"
