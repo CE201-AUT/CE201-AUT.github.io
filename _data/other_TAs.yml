@@ -39,7 +39,63 @@
 
 
 
-- name: Anonymous
+- name: Amirreza Ebadifar
+  roles:
+    - Grader
+  image: default.png
+  social:
+    - name: github
+      link: https://github.com/
+    - name: linkedin
+      link: https://www.linkedin.com/in/
+    - name: twitter
+      link: https://twitter.com/
+
+
+
+- name: Bita Asheghi
+  roles:
+    - Grader
+  image: default.png
+  social:
+    - name: github
+      link: https://github.com/
+    - name: linkedin
+      link: https://www.linkedin.com/in/
+    - name: twitter
+      link: https://twitter.com/
+
+
+
+- name: Mehdi Mobini
+  roles:
+    - Grader
+  image: default.png
+  social:
+    - name: github
+      link: https://github.com/
+    - name: linkedin
+      link: https://www.linkedin.com/in/
+    - name: twitter
+      link: https://twitter.com/
+
+
+
+- name: Mehrnaz Sahebi
+  roles:
+    - Grader
+  image: default.png
+  social:
+    - name: github
+      link: https://github.com/
+    - name: linkedin
+      link: https://www.linkedin.com/in/
+    - name: twitter
+      link: https://twitter.com/
+
+
+
+- name: Hossein Zarei Nezhad
   roles:
     - Grader
   image: default.png
