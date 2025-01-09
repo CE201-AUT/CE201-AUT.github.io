@@ -22,15 +22,15 @@ lessons:
     description: "Start..."
     body: lesson_0
 
-#   - title: "Lesson 1 : Know the basics"
-#     requirements: "Your motivation and interest *___*"
-#     description: "These are the essentials, learn them well"
-#     body: lesson_1
+  - title: "Lesson 1 : Know the basics"
+    requirements: "Your motivation and interest *___*"
+    description: "These are the essentials, learn them well"
+    body: lesson_1
 
-#   - title: "Lesson 2 : Combinational Design"
-#     requirements: "Learning the basics of the digital world well"
-#     description: "Review on boolean minimization, circuit delay, basic combinational component, arithmatic unit."
-#     body: lesson_2
+  - title: "Lesson 2 : Combinational Design"
+    requirements: "Learning the basics of the digital world well"
+    description: "Review on boolean minimization, circuit delay, basic combinational component, arithmatic unit."
+    body: lesson_2
 
 # - title: "Lesson 3 : Sequential Design"
 #     requirements: "Exercise 1, Data Structures"
