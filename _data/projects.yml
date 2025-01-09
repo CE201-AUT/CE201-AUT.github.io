@@ -37,49 +37,17 @@
   title: Mortal Kombat
   icon: jedi
   projects:
-    - team: Team 1
+    - team: Description
       links:
         - title: Repository
-          url: https://github.com/
-    - team: Team 2
-      links:
-        - title: Repository
-          url: https://github.com/
-    - team: Team 3
-      links:
-        - title: Repository
-          url: https://github.com/
-    - team: Team 4
-      links:
-        - title: Repository
-          url: https://github.com/
-    - team: Team 5
-      links:
-        - title: Repository
-          url: https://github.com/
+          url: https://github.com/aut-ce/CE202-LC-Lab-Manual/blob/main/Projects/2023Fall/Logic-Project-Fall2023.pdf
 
           
 - semester: Spring 2023
   title: Smart House
   icon: warehouse
   projects:
-    - team: Team 1
+    - team: Description
       links:
         - title: Repository
-          url: https://github.com/
-    - team: Team 2
-      links:
-        - title: Repository
-          url: https://github.com/
-    - team: Team 3
-      links:
-        - title: Repository
-          url: https://github.com/
-    - team: Team 4
-      links:
-        - title: Repository
-          url: https://github.com/
-    - team: Team 5
-      links:
-        - title: Repository
-          url: https://github.com/
+          url: https://github.com/aut-ce/CE202-LC-Lab-Manual/blob/main/Projects/2023Spring/99-1-LogicDesignFinalProject99001.pdf
