@@ -39,6 +39,15 @@
 
 
 
+- name: Mehrnaz Sahebi
+  roles:
+    - Grader
+  image: mehrnazsahebi.jpg
+  social:
+    - name: linkedin
+      link: https://www.linkedin.com/in/its-mehrnaz-sahebi
+
+
 - name: Amirreza Ebadifar
   roles:
     - Grader
@@ -68,20 +77,6 @@
 
 
 - name: Mehdi Mobini
-  roles:
-    - Grader
-  image: default.png
-  social:
-    - name: github
-      link: https://github.com/
-    - name: linkedin
-      link: https://www.linkedin.com/in/
-    - name: twitter
-      link: https://twitter.com/
-
-
-
-- name: Mehrnaz Sahebi
   roles:
     - Grader
   image: default.png
