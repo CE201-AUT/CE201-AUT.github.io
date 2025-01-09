@@ -27,17 +27,15 @@
       link: https://www.linkedin.com/in/mehrshadkh/
 
 
-- name: Anonymous
+- name: Maneli Ghasemi
   roles:
     - Grader
-  image: default.png
+  image: manelighasemi.jpg
   social:
     - name: github
-      link: https://github.com/
+      link: https://github.com/manelyhamedani
     - name: linkedin
-      link: https://www.linkedin.com/in/
-    - name: twitter
-      link: https://twitter.com/
+      link: https://linkedin.com/in/manelygham
 
 
 
