@@ -59,6 +59,26 @@
       link: https://www.linkedin.com/in/amirrezaebr/
 
 
+- name: Mahdi Mobini
+  roles:
+    - Grader
+  image: mahdimobini.jpg
+  social:
+    - name: linkedin
+      link: https://www.linkedin.com/in/mahdi-mobini-020493277/
+
+
+
+
+- name: Hossein Zarei Nezhad
+  roles:
+    - Grader
+  image: hosseinzareinezhad.jpg
+  social:
+    - name: linkedin
+      link: https://www.linkedin.com/in/hossein-zareinejad/
+
+
 
 - name: Bita Asheghi
   roles:
@@ -74,22 +94,3 @@
 
 
 
-- name: Mahdi Mobini
-  roles:
-    - Grader
-  image: mahdimobini.jpg
-  social:
-    - name: linkedin
-      link: https://www.linkedin.com/in/mahdi-mobini-020493277/
-
-
-
-- name: Hossein Zarei Nezhad
-  roles:
-    - Grader
-  image: default.png
-  social:
-    - name: github
-      link: https://github.com/
-    - name: linkedin
-      link: https://www.linkedin.com/in/mahdi-mobini-020493277/
