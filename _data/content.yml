@@ -32,16 +32,16 @@ lessons:
     description: "Review on boolean minimization, circuit delay, basic combinational component, arithmatic unit."
     body: lesson_2
 
-# - title: "Lesson 3 : Sequential Design"
-#     requirements: "Exercise 1, Data Structures"
-#     description: "Review on latches, flipflops, FSM, registers, hazard, PLA, ROM, architecture of FPGA."
-#     body: lesson_3
+  - title: "Lesson 3 : Sequential Design"
+    requirements: "Exercise 1, Data Structures"
+    description: "Review on latches, flipflops, FSM, registers, hazard, PLA, ROM, architecture of FPGA."
+    body: lesson_3
 
-#   - title: "Lesson 4 : HDLs Worls !"
-#     requirements: "Some of your previous topics, get the soap ready"
-#     description: "Basic HDL design topics are the most
-#       important step to becoming a hardware designer."
-#     body: lesson_4
+    - title: "Lesson 4 : HDLs Worls !"
+      requirements: "Some of your previous topics, get the soap ready"
+      description: "Basic HDL design topics are the most
+        important step to becoming a hardware designer."
+      body: lesson_4
 
   # - title: "Review 1"
   #   requirements: "Exercise 1, Data Structures"
