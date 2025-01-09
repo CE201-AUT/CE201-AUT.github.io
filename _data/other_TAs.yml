@@ -51,14 +51,12 @@
 - name: Amirreza Ebadifar
   roles:
     - Grader
-  image: default.png
+  image: amirrezaebadifar.png
   social:
     - name: github
-      link: https://github.com/
+      link: https://github.com/amirrezaebr
     - name: linkedin
-      link: https://www.linkedin.com/in/
-    - name: twitter
-      link: https://twitter.com/
+      link: https://www.linkedin.com/in/amirrezaebr/
 
 
 
