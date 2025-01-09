@@ -61,7 +61,8 @@
           
 - semester: Spring 2023
   title: Smart House
-  icon: piggy-bank
+  # icon: piggy-bank
+  icon: warehouse
   projects:
     - team: Team 1
       links:
