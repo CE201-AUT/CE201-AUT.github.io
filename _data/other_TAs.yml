@@ -74,17 +74,13 @@
 
 
 
-- name: Mehdi Mobini
+- name: Mahdi Mobini
   roles:
     - Grader
-  image: default.png
+  image: mahdimobini.jpg
   social:
-    - name: github
-      link: https://github.com/
     - name: linkedin
-      link: https://www.linkedin.com/in/
-    - name: twitter
-      link: https://twitter.com/
+      link: https://www.linkedin.com/in/mahdi-mobini-020493277/
 
 
 
@@ -96,6 +92,4 @@
     - name: github
       link: https://github.com/
     - name: linkedin
-      link: https://www.linkedin.com/in/
-    - name: twitter
-      link: https://twitter.com/
+      link: https://www.linkedin.com/in/mahdi-mobini-020493277/
