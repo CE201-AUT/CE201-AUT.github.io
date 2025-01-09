@@ -1,10 +1,10 @@
 title:  What's Included
 includes:
   - meta: Assistants
-    data: 10
+    data: 11
 
   - meta: Assignment
-    data: 5
+    data: 7
 
   - meta: Labs
     data: 10
