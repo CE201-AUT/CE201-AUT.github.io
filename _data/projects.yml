@@ -4,18 +4,18 @@
   projects:
     - team: Description
       links:
-        - title: Download
-          url: https://github.com/AUT-LCLab/project-spring2024-ballmerpeak
+        - title: Repository
+          url: https://github.com/CE201-AUT/Documents/blob/main/Project/Logic_Lab_final_project_fall2024-V3.pdf
 
 
 - semester: Spring 2024
   title: Jaqub Barghi
   icon: shopping-cart
   projects:
-    - team: Team 1
+    - team: Description
       links:
         - title: Repository
-          url: https://github.com/AUT-LCLab/project-spring2024-ballmerpeak
+          url: https://github.com/aut-ce/CE202-LC-Lab-Manual/blob/main/Projects/2024Spring/phase_0_1/Logic-Project-Spring2024.pdf
     # - team: Team 2
     #   links:
     #     - title: Repository
@@ -61,7 +61,6 @@
           
 - semester: Spring 2023
   title: Smart House
-  # icon: piggy-bank
   icon: warehouse
   projects:
     - team: Team 1
