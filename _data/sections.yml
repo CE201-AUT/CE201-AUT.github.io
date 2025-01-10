@@ -12,7 +12,7 @@
 
 - title: Education Team
   section: education
-  navbar: false
+  navbar: true
 
 - title: Reviews
   section: reviews
