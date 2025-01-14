@@ -83,14 +83,10 @@
 - name: Bita Asheghi
   roles:
     - Grader
-  image: default.png
+  image: bitaasheghi.png
   social:
-    - name: github
-      link: https://github.com/
     - name: linkedin
-      link: https://www.linkedin.com/in/
-    - name: twitter
-      link: https://twitter.com/
+      link: https://www.linkedin.com/in/bita-a-3b45a3346/
 
 
 
